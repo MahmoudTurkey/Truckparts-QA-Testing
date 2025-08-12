@@ -1,7 +1,7 @@
 🚀 Truckparts QA Evaluation Project
 
 📌 Overview
-This repository contains the full QA deliverables for the Zetaton evaluation task:
+This repository contains the full QA deliverables for the Truckparts:
 - Detailed **Test Plan** for critical features
 - **High-priority Test Cases** (Excel format)
 - **Sample Test Data** for realistic scenarios
